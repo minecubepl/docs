@@ -25,5 +25,3 @@ Tak, MineCube jest dostępny przez całą dobę, 7 dni w tygodniu. Jeśli serwer
 ### Jakie modyfikacje są dozwolone na serwerze?
 
 Dozwolone modyfikacje to te, które nie dają przewagi nad innymi graczami, takie jak Optifine, minimapy bez funkcji radarów czy Shadery. Używanie cheatów lub hacków jest surowo zabronione i może prowadzić do bana.
-
-TODO: Dopisać o rozwalonym Hudzie

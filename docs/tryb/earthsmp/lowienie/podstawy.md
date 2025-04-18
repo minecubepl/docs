@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 🎣 Podstawy Łowienia
 
+TODO: Cała kategoria łowienie wymaga aktualizacji, zmiana grafik, aktualizacja treści.
+
 ### Podstawy łowienia ryb, twój poziom, kraby, łowienie ryb i torba na ryby.
 
 ## Łowienie

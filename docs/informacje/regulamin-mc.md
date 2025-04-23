@@ -37,5 +37,11 @@ Zanim rozpoczniesz grę na naszym serwerze, zapoznaj się z naszym regulaminem. 
 
 ---
 
+Jeśli nie możesz wyświetlić regulaminu w oknie powyżej, kliknij w poniższy link, aby otworzyć regulamin bezpośrednio w Google Docs:
+
+[**Otwórz regulamin w nowej karcie**](https://docs.google.com/document/d/e/2PACX-1vSPXoRJGeLPj8GnlHH2Ay_6ZR5vvNFYWV0giAicClysUUTxS7p8BVTqQTBW5K1UAeqRanC8kJbundN6/pub)
+
+---
+
 🕓 **Po zapoznaniu się z regulaminem, możesz rozpocząć grę.**  
 Pamiętaj, że przestrzeganie zasad zapewnia wszystkim graczom dobrą zabawę! 💙

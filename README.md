@@ -1,13 +1,15 @@
 # MineCube Wiki
 
+Witamy w oficjalnym repozytorium wiki serwera **MineCube**!
+
 Ta strona została zbudowana przy użyciu [Docusaurus](https://docusaurus.io/).
 
 ## 📦 Wymagania
 
-- **Node.js `>=18.0`**
+- [**Node.js**](https://nodejs.org) w wersji `>=18.0`
 - **pnpm** jako menedżer pakietów
 
-Jeśli nie masz pnpm, zainstaluj go globalnie:
+Jeśli nie masz jeszcze pnpm, zainstaluj go globalnie:
 
 ```bash
 npm install -g pnpm
@@ -15,7 +17,9 @@ npm install -g pnpm
 
 ---
 
-## 🔧 Instalacja
+## 🔧 Instalacja zależności
+
+Zainstaluj wszystkie potrzebne pakiety:
 
 ```bash
 pnpm install
@@ -23,42 +27,43 @@ pnpm install
 
 ---
 
-## 🚀 Lokalny serwer deweloperski
+## 🚀 Uruchamianie lokalnego serwera deweloperskiego
+
+W celu podglądu strony na żywo:
 
 ```bash
-pnpm start
+pnpm run start
 ```
 
-Po uruchomieniu strona otworzy się w przeglądarce. Zmiany w plikach będą widoczne natychmiast.
-
----
-
-## 🏗️ Budowanie strony
-
-```bash
-pnpm build
-```
-
-Wygeneruje statyczne pliki w katalogu `build/`.
+Po chwili strona otworzy się automatycznie w Twojej przeglądarce.
+Wprowadzone zmiany w plikach będą widoczne natychmiast.
 
 ---
 
 ## 🧹 Czyszczenie cache
 
-```bash
-pnpm docusaurus clear
-```
+W przypadku problemów (np. błędów Webpacka) wyczyść cache:
 
-Usuwa cache oraz pliki builda, przydatne gdy coś się „psuje”.
+```bash
+pnpm run clear
+```
 
 ---
 
 ## 💡 Wskazówki
 
-- W razie problemów z Webpackem spróbuj użyć `pnpm docusaurus clear`
-- Pliki wiki znajdują się w `docs/`
-- Najbardziej będzie ciebie interesować polecenie `start`
+- Pliki wiki znajdują się w katalogu `docs/`.
+- Najczęściej używaną komendą będzie `pnpm run start`, aby na bieżąco widzieć zmiany.
+- W razie problemów technicznych pomocne będzie polecenie `pnpm run clear`.
 
 ---
 
-Miłego tworzenia wiki! 😊
+## 📚 Dla początkujących
+
+Jeżeli nigdy wcześniej nie korzystałeś z GitHub'a, terminala, a ogólnie nie wiesz, co tu się dzieje, ale chcesz pomóc w rozwoju naszego wiki — zapoznaj się z przewodnikiem:
+
+👉 _Wkrótce dostępne..._
+
+---
+
+**Miłego tworzenia i rozwijania naszej wiki! 🚀✨**

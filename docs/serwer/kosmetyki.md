@@ -14,7 +14,7 @@ Możesz się wyróżnić, wyrazić siebie albo po prostu błyszczeć w tłumie!
 🧢 **Czapki** – Od czapek z daszkiem po koronki królewskie – Twoja głowa, Twój styl! 👑  
 🎈 **Balony** – Latające akcesorium, które zawsze za Tobą podąża! 🕊️  
 🎒 **Plecaki** – Stylowe dodatki na plecach – od słodkich pluszaków po wojskowe torby! 🎽  
-🐾 **Ogony** – Koci? Smoczy? Lis? Wybierz swój klimat i ruszaj na przygodę! 🐉
+🐾 **Ogony** – Koci? Smoczy? Lisi? Wybierz swój klimat i ruszaj na przygodę! 🐉
 
 ## 🧥 Gdzie znaleźć garderobę? {#garderoba}
 

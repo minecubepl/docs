@@ -40,7 +40,7 @@ Po utworzeniu państwa, automatycznie staniesz się jego liderem 👑.
 
 ### 🏕️ Tworzenie obozu {#tworzenie-obozu}
 
-Jeśli jesteś nowy i jeszcze nie masz 7,5k na stworzenie państwa, możesz stworzyć oboz za darmo. Obóz jest dostępny na 3 dni.
+Jeśli jesteś nowy i jeszcze nie masz 7,5k na stworzenie państwa, możesz stworzyć obóz za darmo. Obóz jest dostępny na 3 dni.
 
 ```
 /lands createcamp <nazwa>

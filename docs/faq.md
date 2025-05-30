@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # ⁉️ FAQ
 
 Najczęściej zadawane Pytania:

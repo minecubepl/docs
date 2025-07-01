@@ -14,7 +14,7 @@ keywords:
 
 # 🌍 Państwa
 
-<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->
+<!-- TODO: Państwa wymagają aktualizacji do nowej Edycji. -->
 
 ## 🌐 Wprowadzenie {#wprowadzenie}
 
@@ -27,13 +27,13 @@ Aby stworzyć swoje własne państwo, użyj komendy:
 **Koszt:** 7,5k 💰
 
 ```
-/lands create <nazwa>
+/kraj create <nazwa>
 ```
 
 Przykład:
 
 ```
-/lands create Argentyna
+/kraj create Argentyna
 ```
 
 Po utworzeniu państwa, automatycznie staniesz się jego liderem 👑.
@@ -43,7 +43,7 @@ Po utworzeniu państwa, automatycznie staniesz się jego liderem 👑.
 Jeśli jesteś nowy i jeszcze nie masz 7,5k na stworzenie państwa, możesz stworzyć obóz za darmo. Obóz jest dostępny na 3 dni.
 
 ```
-/lands createcamp <nazwa>
+/kraj createcamp <nazwa>
 ```
 
 ## 🏛️ Zarządzanie państwem {#zarzadzanie}
@@ -53,13 +53,13 @@ Jeśli jesteś nowy i jeszcze nie masz 7,5k na stworzenie państwa, możesz stwo
 Aby dodać członka do swojego państwa, użyj komendy:
 
 ```
-/lands trust <nazwa_gracza>
+/kraj trust <nazwa_gracza>
 ```
 
 Gracz, którego zaprosisz, musi zaakceptować zaproszenie komendą:
 
 ```
-/lands accept <nazwa_państwa>
+/kraj accept <nazwa_państwa>
 ```
 
 ### ❌ Usuwanie członków {#usuwanie-czlonkow}
@@ -67,7 +67,7 @@ Gracz, którego zaprosisz, musi zaakceptować zaproszenie komendą:
 Aby usunąć członka z państwa, użyj komendy:
 
 ```
-/lands untrust <nazwa_gracza>
+/kraj untrust <nazwa_gracza>
 ```
 
 ### 🎖️ Nadawanie rang {#nadawanie-rang}
@@ -75,7 +75,7 @@ Aby usunąć członka z państwa, użyj komendy:
 Możesz nadawać różne rangi członkom państwa, co pozwoli im na wykonywanie różnych czynności:
 
 ```
-/lands setrole <gracz> <obszar> <rola>
+/kraj setrole <gracz> <obszar> <rola>
 ```
 
 ## 🧑‍💻 Podstawowe komendy {#podstawowe-komendy}
@@ -89,7 +89,7 @@ _Wkrótce dostępne..._
 Możesz tworzyć sojusze z innymi państwami, co pozwoli na współpracę i wzajemną ochronę. Aby zaprosić inne państwo do sojuszu, użyj komendy:
 
 ```
-/lands relations allies add <nazwa_państwa>
+/kraj relations allies add <nazwa_państwa>
 ```
 
 ### ⚔️ Wojny {#wojny}
@@ -114,7 +114,7 @@ _Wkrótce dostępne..._
 Aby przekazać liderowanie innej osobie, użyj komendy:
 
 ```
-/lands setowner <nazwa_gracza>
+/kraj setowner <nazwa_gracza>
 ```
 
 ### 🏡 Jak mogę teleportować się do mojego państwa? {#teleport-do-panstwa}
@@ -122,7 +122,7 @@ Aby przekazać liderowanie innej osobie, użyj komendy:
 Aby teleportować się do swojego państwa, użyj komendy:
 
 ```
-/lands spawn
+/kraj spawn
 ```
 
 ### 📝 Czy mogę zmienić nazwę państwa? {#zmiana-nazwy}
@@ -130,7 +130,7 @@ Aby teleportować się do swojego państwa, użyj komendy:
 Tak, aby zmienić nazwę swojego państwa, użyj komendy:
 
 ```
-/lands rename <nowa_nazwa>
+/kraj rename <nowa_nazwa>
 ```
 
 ### 🎨 Jak zmienić nazwę państwa na kolorową? {#zmiana-nazwy-kolor}
@@ -138,13 +138,13 @@ Tak, aby zmienić nazwę swojego państwa, użyj komendy:
 Aby to zrobić wystarczy że wpiszesz komendę do zmiany a za nią nazwe kraju z kodami kolorów:
 
 ```
-/lands rename <nowa_nazwa>
+/kraj rename <nowa_nazwa>
 ```
 
 Przykład:
 
 ```
-/lands rename &f&lPol&c&lska
+/kraj rename &f&lPol&c&lska
 ```
 
 Teraz uzyskamy biało-czerwony napis "Polska", który będzie pogrubiony. Dostępne kody kolorów możesz sprawdzić pod komendą `/colors`.

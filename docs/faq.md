@@ -3,6 +3,7 @@ sidebar_position: 7
 ---
 
 # ⁉️ FAQ
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 Najczęściej zadawane Pytania:
 
@@ -12,11 +13,11 @@ Oczywiście że tak! Dołączyć na niego możesz poprzez [https://discord.gg/mi
 
 ### 🕒 Kiedy dodacie XYZ? {#kiedy-dodacie-xyz}
 
-Aktualizacje i nowe funkcje są ogłaszane na naszym Discordzie oraz na stronie serwera. Dołącz do naszego Discorda, aby być na bieżąco! Pamiętaj, że też jesteśmy ludźmi, a dopracowanie wszystkiego, żeby było jak najlepsze, też wymaga czasu ⏳.
+Aktualizacje i nowe funkcje są ogłaszane na naszym [Discordzie](https://discord.gg/minecube) oraz na stronie serwera. Dołącz do naszego Discorda, aby być na bieżąco! Pamiętaj, że też jesteśmy ludźmi, a dopracowanie wszystkiego, żeby było jak najlepsze, też wymaga czasu ⏳.
 
 ### 🐞 Jak mogę zgłosić problem lub błąd na serwerze? {#problem}
 
-Problemy i błędy można zgłaszać na naszym Discordzie na Ticketach 📝. Prosimy o dokładne opisanie problemu i podanie wszelkich istotnych informacji.
+Problemy i błędy można zgłaszać na naszym [Discordzie](https://discord.gg/minecube) na Ticketach 📝. Prosimy o dokładne opisanie problemu i podanie wszelkich istotnych informacji.
 
 ### 💎 Jak mogę wspierać serwer? {#wspieranie}
 
@@ -24,7 +25,7 @@ Możesz wspierać serwer poprzez zakup rangi lub innych dodatków w naszym sklep
 
 ### 🌐 Czy serwer jest dostępny 24/7? {#czy-serwer-jest-24/7}
 
-Tak, MineCube jest dostępny przez całą dobę, 7 dni w tygodniu 🕑. Jeśli serwer jest offline, może to być spowodowane konserwacją lub aktualizacją. Informacje o planowanych przerwach znajdziesz na naszym Discordzie.
+Tak, MineCube jest dostępny przez całą dobę, 7 dni w tygodniu 🕑. Jeśli serwer jest offline, może to być spowodowane konserwacją lub aktualizacją. Informacje o planowanych przerwach znajdziesz na naszym [Discordzie](https://discord.gg/minecube).
 
 ### 🎮 Jakie modyfikacje są dozwolone na serwerze? {#dozwolone-modyfikacje}
 

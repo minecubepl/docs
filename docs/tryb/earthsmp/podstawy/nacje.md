@@ -1,11 +1,11 @@
 ---
-sidebar_position: 9
+sidebar_position: 2
 draft: true
 ---
 
-# 🛜 Bezprzewodowe hoppery
+# 🛡️ Nacje
 <!-- TODO: Dodać opis, słowa kluczowe -->
 
 _Wkrótce dostępne..._
 
-<!-- TODO: Zrobić to -->
+<!-- TODO: Dodać informacje o nazjach -->

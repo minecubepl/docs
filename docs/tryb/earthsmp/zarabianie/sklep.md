@@ -1,8 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # 🏪 Sklep
+<!-- TODO: Dodać opis, słowa kluczowe -->
+
+<!-- TODO: Sklep wymaga aktualizacji do nowej edycji -->
 
 Sklep dostępny jest pod komendą: `/sklep` 🛍️.
 

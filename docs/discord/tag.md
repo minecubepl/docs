@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # ⚡ Tag serwera
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 ## ❓ Co to? {#coto}
 

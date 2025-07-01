@@ -8,7 +8,7 @@ Mapę znajdziesz na: [mapa.minecube.pl](https://mapa.minecube.pl)
 
 ### ❓ Kiedy dodacie XYZ?
 
-Aktualizacje i nowe funkcje są ogłaszane na naszym Discordzie oraz na stronie serwera. Dołącz do naszego Discorda, aby być na bieżąco! Pamiętaj, że też jesteśmy ludźmi, a dopracowanie wszystkiego, żeby było jak najlepsze, wymaga czasu.
+Aktualizacje i nowe funkcje są ogłaszane na naszym [Discordzie](https://discord.gg/minecube) oraz na stronie serwera. Dołącz do naszego Discorda, aby być na bieżąco! Pamiętaj, że też jesteśmy ludźmi, a dopracowanie wszystkiego, żeby było jak najlepsze, wymaga czasu.
 
 ### 🚀 Jak mogę dołączyć do serwera EarthSMP?
 
@@ -31,15 +31,15 @@ Tworząc państwo, automatycznie zabezpieczasz swój teren. Możesz również tw
 
 ### 🐞 Jak mogę zgłosić problem lub błąd na serwerze?
 
-Problemy i błędy można zgłaszać na naszym Discordzie na Ticketach. Prosimy o dokładne opisanie problemu i podanie wszelkich istotnych informacji.
+Problemy i błędy można zgłaszać na naszym [Discordzie](https://discord.gg/minecube) na Ticketach. Prosimy o dokładne opisanie problemu i podanie wszelkich istotnych informacji.
 
 ### 🎉 Czy są organizowane wydarzenia na serwerze?
 
-Tak, regularnie organizujemy różne wydarzenia, takie jak turnieje, konkursy i eventy społecznościowe. Informacje o nadchodzących wydarzeniach znajdziesz na naszym Discordzie.
+Tak, regularnie organizujemy różne wydarzenia, takie jak turnieje, konkursy i eventy społecznościowe. Informacje o nadchodzących wydarzeniach znajdziesz na naszym [Discordzie](https://discord.gg/minecube).
 
 ### 📜 Jakie są zasady serwera?
 
-Zasady serwera EarthSMP są dostępne na naszym Discordzie. Prosimy o zapoznanie się z nimi i przestrzeganie ich, aby zapewnić przyjemną rozgrywkę dla wszystkich graczy.
+Zasady serwera EarthSMP są dostępne na naszym [Discordzie](https://discord.gg/minecube). Prosimy o zapoznanie się z nimi i przestrzeganie ich, aby zapewnić przyjemną rozgrywkę dla wszystkich graczy.
 
 ### 🛡️ Jak mogę chronić moje rzeczy przed kradzieżą?
 

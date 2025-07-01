@@ -1,8 +1,10 @@
 ---
-sidebar_position: 8
+sidebar_position: 6
+draft: true
 ---
 
 # 🛞 Ruletka
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 _Wkrótce dostępne..._
 

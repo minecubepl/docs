@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
 description: Dowiedz się, czym jest Strefa AFK na Minecube i jak możesz zdobywać klucze oraz nagrody, odpoczywając bezpiecznie podczas nieaktywności!
 keywords:
   - strefa AFK

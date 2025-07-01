@@ -1,8 +1,9 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 # 👺 Kosmetyki
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 > _Styl to nie wszystko... ale pomaga wyglądać **epicko** 😎_
 

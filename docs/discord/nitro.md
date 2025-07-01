@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # 🚀 Nitro Boosty
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 > _Każda osoba boostująca nasz serwer to prawdziwa **sigma** 💪_  
 > Cieszymy się z **każdego jednego boosta** — to dzięki Wam możemy się rozwijać! 💙💫

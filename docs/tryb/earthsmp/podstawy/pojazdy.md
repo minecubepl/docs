@@ -1,9 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 8
+draft: true
 ---
 
 # 🚗 Pojazdy
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 _Wkrótce dostępne..._
 
-<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->
+<!-- TODO: Strona o pojazdach wymaga zrobienia. -->

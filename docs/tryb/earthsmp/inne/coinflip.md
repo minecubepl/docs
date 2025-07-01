@@ -1,8 +1,10 @@
 ---
-sidebar_position: 9
+sidebar_position: 7
+draft: true
 ---
 
 # 🪙 CoinFlip
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 _Wkrótce dostępne..._
 

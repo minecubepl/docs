@@ -1,4 +1,11 @@
+---
+sidebar_position: 13
+---
+
 # 🧸 Pluszaki
+<!-- TODO: Dodać opis, słowa kluczowe -->
+
+<!-- TODO: Dodać informacje o konkursie jeśli będzie -->
 
 **Pluszaki** to unikatowe, ozdobne przedmioty, które gracze mogą zdobywać poprzez walkę z mobami. Są one świetnym dodatkiem dekoracyjnym, pozwalającym na personalizację przestrzeni graczy na serwerze.
 

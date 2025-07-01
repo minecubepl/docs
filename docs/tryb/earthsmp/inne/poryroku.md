@@ -1,11 +1,10 @@
 ---
-sidebar_position: 9
+sidebar_position: 3
 draft: true
 ---
 
-# 🛜 Bezprzewodowe hoppery
+# 🍃 Pory Roku
 <!-- TODO: Dodać opis, słowa kluczowe -->
-
 _Wkrótce dostępne..._
 
-<!-- TODO: Zrobić to -->
+<!-- TODO: Zrobić pory roku -->

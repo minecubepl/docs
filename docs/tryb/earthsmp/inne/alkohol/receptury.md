@@ -4,6 +4,7 @@ description: Niektóre receptury do tworzenia alkoholu
 ---
 
 # ⚗️ Receptury
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 <!-- TODO: Wymaga aktualizacji do nowej Edycji. -->
 

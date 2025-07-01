@@ -1,4 +1,9 @@
+---
+sidebar_position: 14
+---
+
 # 🏝️ Skarby Plaży
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 Na plaży możesz znaleźć trzy rodzaje skarbów:
 

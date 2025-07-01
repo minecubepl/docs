@@ -1,17 +1,18 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 
 # 👚 Netherytowe Itemy
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 Na **EarthSMP**, zbroje, kilofy, miecze i inne przedmioty netherytowe craftujemy bez użycia szablonów, w tradycyjny sposób. 🔨
 
 ## 📝 Receptury {#receptury}
 
-<!-- TODO: Zaaktualizować grafiki. -->
+<!-- TODO: Zaaktualizować grafiki crafingów. -->
 
 ### 🛡️ Zbroja {#zbroja}
 

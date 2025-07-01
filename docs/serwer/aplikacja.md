@@ -1,4 +1,8 @@
+---
+sidebar_position: 3
+---
 # 📱 Aplikacja Mobilna
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 :::danger
 🚧 **Aplikacja jest jeszcze w fazie tworzenia!**

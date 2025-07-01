@@ -78,7 +78,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} MineCube. Built with Docusaurus.<div>This website is not an official Minecraft site and is not affiliated with Mojang Studios or Microsoft. All product and company names are trademarks or registered trademarks of their respective owners. The use of these names does not indicate any official connection or endorsement.</div>`,
+      copyright: `Copyright © ${new Date().getFullYear()} MineCube.<div>This website is not an official Minecraft site and is not affiliated with Mojang Studios or Microsoft. All product and company names are trademarks or registered trademarks of their respective owners. The use of these names does not indicate any official connection or endorsement.</div>`,
     },
     prism: {
       theme: prismThemes.github,

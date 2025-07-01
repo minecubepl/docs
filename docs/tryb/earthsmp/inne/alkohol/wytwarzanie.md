@@ -3,8 +3,9 @@ sidebar_position: 2
 ---
 
 # 🤫 Wytwarzanie
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
-<!-- TODO: Wymaga większej ilości danych. -->
+<!-- TODO: Wymaga większej ilości informacji. -->
 
 ## 🍇 Fermentacja {#fermentacja}
 

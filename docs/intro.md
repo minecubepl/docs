@@ -4,6 +4,7 @@ slug: /
 ---
 
 # 👋 Witaj na Wiki MineCube!
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 <!-- TODO: Dodać tutaj banner -->
 

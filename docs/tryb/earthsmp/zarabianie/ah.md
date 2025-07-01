@@ -1,10 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 🛖 Dom Aukcyjny
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
-<!-- TODO: Wymaga aktualizacji do nowej edycji. -->
+<!-- TODO: AH wymaga aktualizacji do nowej edycji. -->
 
 Dom Aukcyjny (AH) to miejsce, gdzie możesz **kupować i sprzedawać przedmioty** innym graczom w wygodny sposób. 💸
 
@@ -34,6 +35,6 @@ Dom Aukcyjny (AH) to miejsce, gdzie możesz **kupować i sprzedawać przedmioty*
 
 ---
 
-<!-- TODO: GRAFIKA WYMAGA AKTUALIZACJI -->
+<!-- TODO: GRAFIKA AH WYMAGA AKTUALIZACJI -->
 
 ![Dom Aukcyjny](./assets/ah.png)

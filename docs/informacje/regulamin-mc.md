@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # ⛏️ Regulamin Minecraft
+<!-- TODO: Dodać opis, słowa kluczowe -->
 
 Zanim rozpoczniesz grę na naszym serwerze, zapoznaj się z naszym regulaminem. Dokument zawiera zasady, których należy przestrzegać, aby gra była przyjemna i bezpieczna dla wszystkich graczy.
 

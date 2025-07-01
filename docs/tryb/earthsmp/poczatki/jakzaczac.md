@@ -9,7 +9,7 @@ keywords:
 
 # 🏠 Jak zacząć grę?
 
-<!-- TODO: Wymaga większej ilości danych. -->
+<!-- TODO: Wymaga większej ilości informacji, aktualizacja informacji do nowej edycji -->
 
 Po dołączeniu na serwer **EarthSMP**, zalecamy rozpoczęcie przygody od odebrania zestawów przygotowanych specjalnie dla nowych graczy:
 

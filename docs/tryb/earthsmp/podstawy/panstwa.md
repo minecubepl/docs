@@ -133,6 +133,11 @@ Tak, aby zmienić nazwę swojego państwa, użyj komendy:
 /kraj rename <nowa_nazwa>
 ```
 
+### 📝 Czy mogę zmienić TAG państwa? {#zmiana-tagu}
+
+Tak, tag swojego kraju możesz zmienić w gui `/kraj menu` -> Ustawienia Różne.
+> Tag kraju może być równiez kolorowy oraz posiadać formatowanie.
+
 ### 🎨 Jak zmienić nazwę państwa na kolorową? {#zmiana-nazwy-kolor}
 
 Aby to zrobić wystarczy że wpiszesz komendę do zmiany a za nią nazwe kraju z kodami kolorów:

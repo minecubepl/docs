@@ -1,8 +1,16 @@
 earthsmp:
   label: EarthSMP
   permalink: /earthsmp
-  description: Zmiana dotyczy EarthSMP
+  description: "Zmiany dotyczące: EarthSMP"
 wiki:
   label: Wiki
   permalink: /wiki
-  description: Zmiana dotyczy Wiki
+  description: "Zmiany dotyczące: Wiki"
+siec:
+  label: Sieć
+  permalink: /siec
+  description: "Zmiany dotyczące: Sieci Serwerów"
+nowaedycja:
+  label: Nowa Edycja
+  permalink: /nowaedycja
+  description: "Zmiany dotyczące: Nowej Edycji"
